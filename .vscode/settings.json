@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "html.format.wrapAttributes": "force-aligned",
+  "scss.lint.unknownAtRules": "ignore",
+  //vscode eslint config
+  "eslint.options": {
+      "extensions": [
+          ".ts",
+          ".html"
+      ],
+  },
+  "eslint.format.enable": true,
+  "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "html"
+  ]
+}
